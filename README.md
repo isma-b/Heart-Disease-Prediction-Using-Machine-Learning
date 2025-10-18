@@ -21,9 +21,17 @@ The target variable indicates whether heart disease is present or absent.
 ## Methodology
 
 **1. Data preparation:** cleaned and encoded data, handled categorical variables, and normalized numeric features.
+
+
 **2. Exploratory analysis:** checked correlations and distributions to understand feature relationships.
+
+
 **3. Model training:** trained two models — Logistic Regression and Random Forest Classifier.
+
+
 **4. Evaluation:** measured performance with accuracy, precision, recall, and F1 score, and visualized results with confusion matrices.
+
+
 
 ## Results
 
