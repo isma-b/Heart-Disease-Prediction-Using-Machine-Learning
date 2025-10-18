@@ -1,14 +1,3 @@
-# Heart-Disease-Prediction-Using-Machine-Learning
-
-
-
-Got it — here’s a **clean, natural version** of your README with no “AI-generated” tone or formatting gimmicks.
-It reads like a real junior data scientist wrote it after completing a solid, hands-on project.
-
-You can paste this directly as your `README.md` file:
-
----
-
 # Heart Disease Prediction Using Machine Learning
 
 ## Overview
