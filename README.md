@@ -14,8 +14,10 @@ It uses common health indicators such as age, cholesterol level, blood pressure,
 
 ## Dataset
 
-**Source:** Kaggle – Heart Disease Prediction Dataset
+**Source:** Kaggle – Heart Disease Prediction Dataset : https://www.kaggle.com/datasets/thedevastator/predicting-heart-disease-risk-using-clinical-var
+
 The dataset contains patient information including age, sex, chest pain type, resting blood pressure, cholesterol, fasting blood sugar, maximum heart rate, and exercise-induced angina.
+
 The target variable indicates whether heart disease is present or absent.
 
 ## Methodology
